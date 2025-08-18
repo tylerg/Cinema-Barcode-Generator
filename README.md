@@ -1,4 +1,4 @@
-# 🎨 Cinema Palette Generator
+# Cinema Palette Generator
 
 A Python script that analyzes video or image files to generate a visual color palette. For videos, it creates a "barcode" that represents the film's color journey from start to finish. For images, it finds the single most representative color.
 
@@ -6,7 +6,7 @@ A Python script that analyzes video or image files to generate a visual color pa
 
 ---
 
-## ✨ Features
+## Features
 
 * **Dual Media Support**: Works seamlessly with both **video files** (MP4, AVI, MOV) and **image files** (JPG, PNG, WEBP).
 * **Two Analysis Methods**:
@@ -18,7 +18,7 @@ A Python script that analyzes video or image files to generate a visual color pa
 
 ---
 
-## 🖼️ Output Examples
+## Output Examples
 
 ### Video Palette
 
@@ -38,7 +38,7 @@ For a single image, it displays the original alongside a swatch of its most domi
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 The script processes media files in a few key steps:
 
@@ -51,7 +51,7 @@ The script processes media files in a few key steps:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -114,10 +114,6 @@ An OpenCV window will pop up to display the result. Press any key to close it. T
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/tylerg/Cinema-Barcode-Generator/issues).
-
-## 📜 License
+## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
